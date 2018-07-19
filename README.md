@@ -1,2 +1,2 @@
 # expert-octo-doodle
-cssi_test_project
+Once there was a student who attended CSSI.
